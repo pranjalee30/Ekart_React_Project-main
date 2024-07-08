@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ekart_React_Project-main/static/css/main.659572bc.css",
+    "main.js": "/Ekart_React_Project-main/static/js/main.7bff6f65.js",
+    "index.html": "/Ekart_React_Project-main/index.html",
+    "main.659572bc.css.map": "/Ekart_React_Project-main/static/css/main.659572bc.css.map",
+    "main.7bff6f65.js.map": "/Ekart_React_Project-main/static/js/main.7bff6f65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.659572bc.css",
+    "static/js/main.7bff6f65.js"
+  ]
+}
